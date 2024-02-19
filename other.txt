@@ -1,2 +1,10 @@
 just adding a cc 4242-4242-4242-4242
 adding another cc 4532390830515684
+
+var secretStore = map[string]string{
+    "123": "3bfe8bd3-d868-49ea-8f22-4aed933969e7",
+    "abc": "SrQEp5Vi2y_p1n8jMVI_AkaOmSYumBZ1r-_0vFnM",
+    "another_secret": "UFzWMYn_aYN46_avxSlx_b9zxv7zfsDuoeh960iA",
+    "cc": "VISA, 4916991525254459, 5/2024, 406",
+    "visa": "4916991525254459",
+}
