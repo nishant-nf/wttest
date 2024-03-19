@@ -1,3 +1,3 @@
-var config = {
+config = {
     "JWT_SECRET": "4fec0c8c67698aa3300d5cd94b3f1c1d"
 }
