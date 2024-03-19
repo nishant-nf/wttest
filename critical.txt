@@ -1,3 +1,1 @@
-config = {
-    "JWT_SECRET_KEY": "4fec0c8c67698aa3300d5cd94b3f1c1d"
-}
+postgresql://booking_service:U70Nx673g!h93w@cloud.google.com:5432/bookings
